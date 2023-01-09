@@ -1,0 +1,48 @@
+.business_experence {
+    text-align: center;
+  }
+
+#responsabilities { 
+text-align: left;
+}
+
+#purpose{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+a { 
+    padding: 14px 25px; 
+    font-size: large;
+}
+
+a:hover, a:active {
+    background-color: rgb(0, 255, 242);
+    color: white;
+    text-decoration: overline;
+  }
+
+
+  #header_presentation {
+    border: 0px;
+    border-color: white;
+    text-align:left ;
+
+  }
+
+  #bs_experience ,tr ,td{
+    border: 1px solid;
+    border-color: blue;
+    border-collapse: collapse;
+   
+  }
+
+  #bs_experience{
+    width: 100%;
+  }
+   
+  #skills, tr, td{
+    border-collapse: collapse;
+  }
